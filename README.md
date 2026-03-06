@@ -7,7 +7,7 @@
     <a href="https://github.com/YVastness/YVastness/graphs/contributors"><img src="https://img.shields.io/github/contributors/YVastness/YVastness?color=blue"></a>
     <a href="https://github.com/YVastness/YVastness/stargazers"><img src="https://img.shields.io/github/stars/YVastness/YVastness.svg?logo=github"></a>
     <a href="https://github.com/YVastness/YVastness/network/members"><img src="https://img.shields.io/github/forks/YVastness/YVastness.svg?color=blue&logo=github"></a>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=BEPb.BEPb" alt="visitors"/>   
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=YVastness.YVastness" alt="visitors"/>   
 </p>
 
 <!--   my-header-img -->
@@ -16,10 +16,9 @@
 
 
 <!--   my-ticker -->    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Andrej+Marinchenko;+Welcome+to+My+Profile!;Over+4+years+of+programming+experience;Always+learning+new+things+;Machine+learning+enthusiast+;Kaggle+community+member)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Yin+Haoyu;+Welcome+to+My+Profile!;Always+learning+new+things+;Github+community+member)](https://git.io/typing-svg)
 
 
-<a href="https://tryhackme.com/signup?referrer=6606c6ff813081fdb556602e"><img src="https://tryhackme-badges.s3.amazonaws.com/andrej.marinchenko.png" alt="TryHackMe"></a>
 <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 40px>
 
 
