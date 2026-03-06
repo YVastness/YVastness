@@ -3,10 +3,7 @@
 <!--   my-icons -->
 <p align="center">
     <a href="https://github.com/YVastness/YVastness"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.12-FF1493.svg"></a>
     <a href="https://github.com/YVastness/YVastness/graphs/contributors"><img src="https://img.shields.io/github/contributors/YVastness/YVastness?color=blue"></a>
-    <a href="https://github.com/YVastness/YVastness/stargazers"><img src="https://img.shields.io/github/stars/YVastness/YVastness.svg?logo=github"></a>
-    <a href="https://github.com/YVastness/YVastness/network/members"><img src="https://img.shields.io/github/forks/YVastness/YVastness.svg?color=blue&logo=github"></a>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=YVastness.YVastness" alt="visitors"/>   
 </p>
 
